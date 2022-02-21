@@ -1,0 +1,51 @@
+section{
+    padding: 60px 0;
+}
+
+#intro-btn{
+    color: #ff69b4;
+border-color: #ff1493;
+text-decoration: none;
+
+}
+#intro-btn:hover{
+    color: #fff;
+    background: #ff1493;
+}
+#story{
+    background: #ffdbed;
+}
+
+#shades{
+    background: #ffdbed;
+}
+
+#story{
+    background: #ffdbed;
+}
+#color{
+    background: #ffdbed;
+}
+#rem-btn{
+    color:  #ff1493;
+border-color: #ff1493;
+text-decoration: none;
+}
+#rem-btn:hover{
+    color: #fff;
+    background-color: hotpink;
+}
+h1, label{
+    font-family: Nafigat Script;
+}
+p, a{
+    font-family: 'Rexmone DEMO', sans-serif;
+}
+#nav-active{
+    color: #ff1493;
+    
+}
+.animate__animated.animate__rubberBand{
+    --animation-duration: 2s;
+}
+                  
